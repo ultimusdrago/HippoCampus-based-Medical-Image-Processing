@@ -1,0 +1,1 @@
+This project aims to develop advanced medical image processing techniques specifically targeting the hippocampus region of the brain, using high-resolution 7.0 Tesla MR images. The focus is on automating the segmentation of the hippocampus, which is critical for studying and diagnosing neurological conditions such as Alzheimer's disease, epilepsy, and other cognitive disorders. 
